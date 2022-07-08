@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(12, 12, 52);
+    color: orange;
+}
+.headerpara{
+    color:wheat;
+}
+img{
+    margin: 100px;
+    margin-left: 200px;
+}
+#header{
+    text-align: center;
+    font-weight: bold;
+    border-bottom: solid 1px orange;
+}
+#steps p,.ingredient li{
+    color:blanchedalmond;
+}
+
+#recipe p,#steps li{
+    color: blanchedalmond;
+}
+a{
+    color:aquamarine;
+}
